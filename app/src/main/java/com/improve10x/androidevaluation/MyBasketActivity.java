@@ -7,6 +7,7 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 public class MyBasketActivity extends AppCompatActivity {
+
     public ArrayList<MyBasketItems> myBasketItems;
     private MyBasketAdapter myBasketAdapter;
 
